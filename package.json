@@ -1,0 +1,14 @@
+{
+  "name": "dx",
+  "version": "1.0.0",
+  "description": "Change Detector",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "greg.coonrod@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "actionhero": "^14.0.11"
+  }
+}
