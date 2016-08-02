@@ -1,0 +1,78 @@
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"192.168.1.150 @ 2016-08-02T02:54:14.669Z"}
+{"level":"info","message":"Redis connection `client` connected","timestamp":"192.168.1.150 @ 2016-08-02T02:54:14.676Z"}
+{"level":"info","message":"Redis connection `subscriber` connected","timestamp":"192.168.1.150 @ 2016-08-02T02:54:14.678Z"}
+{"level":"info","message":"Redis connection `tasks` connected","timestamp":"192.168.1.150 @ 2016-08-02T02:54:14.678Z"}
+{"level":"notice","message":"pid: 56956","timestamp":"192.168.1.150 @ 2016-08-02T02:54:14.801Z"}
+{"level":"notice","message":"server ID: 192.168.1.150","timestamp":"192.168.1.150 @ 2016-08-02T02:54:14.802Z"}
+{"level":"info","message":"actionhero member 192.168.1.150 has joined the cluster","timestamp":"192.168.1.150 @ 2016-08-02T02:54:14.807Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"192.168.1.150 @ 2016-08-02T02:54:14.809Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"192.168.1.150 @ 2016-08-02T02:54:14.820Z"}
+{"level":"notice","message":"environment: development","timestamp":"192.168.1.150 @ 2016-08-02T02:54:15.328Z"}
+{"level":"notice","message":"*** ActionHero Started ***","timestamp":"192.168.1.150 @ 2016-08-02T02:54:15.329Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing...","timestamp":"192.168.1.150 @ 2016-08-02T02:55:20.915Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"192.168.1.150 @ 2016-08-02T03:05:02.251Z"}
+{"level":"info","message":"Redis connection `client` connected","timestamp":"192.168.1.150 @ 2016-08-02T03:05:02.257Z"}
+{"level":"info","message":"Redis connection `subscriber` connected","timestamp":"192.168.1.150 @ 2016-08-02T03:05:02.258Z"}
+{"level":"info","message":"Redis connection `tasks` connected","timestamp":"192.168.1.150 @ 2016-08-02T03:05:02.258Z"}
+{"level":"notice","message":"pid: 57160","timestamp":"192.168.1.150 @ 2016-08-02T03:05:02.363Z"}
+{"level":"notice","message":"server ID: 192.168.1.150","timestamp":"192.168.1.150 @ 2016-08-02T03:05:02.363Z"}
+{"level":"info","message":"actionhero member 192.168.1.150 has joined the cluster","timestamp":"192.168.1.150 @ 2016-08-02T03:05:02.366Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"192.168.1.150 @ 2016-08-02T03:05:02.370Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"192.168.1.150 @ 2016-08-02T03:05:02.378Z"}
+{"level":"notice","message":"environment: development","timestamp":"192.168.1.150 @ 2016-08-02T03:05:02.869Z"}
+{"level":"notice","message":"*** ActionHero Started ***","timestamp":"192.168.1.150 @ 2016-08-02T03:05:02.869Z"}
+{"level":"info","message":"*** rebooting due to config change (/Users/gcoonrod/dev/dx/config/routes.js) ***","timestamp":"192.168.1.150 @ 2016-08-02T03:08:24.553Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing...","timestamp":"192.168.1.150 @ 2016-08-02T03:08:24.554Z"}
+{"level":"notice","message":"Stopping server: web","timestamp":"192.168.1.150 @ 2016-08-02T03:08:24.556Z"}
+{"level":"notice","message":"Stopping server: websocket","timestamp":"192.168.1.150 @ 2016-08-02T03:08:24.557Z"}
+{"level":"alert","message":"*** ActionHero Stopped ***","timestamp":"192.168.1.150 @ 2016-08-02T03:08:24.560Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"192.168.1.150 @ 2016-08-02T03:08:24.609Z"}
+{"level":"info","message":"Redis connection `client` connected","timestamp":"192.168.1.150 @ 2016-08-02T03:08:24.612Z"}
+{"level":"info","message":"Redis connection `subscriber` connected","timestamp":"192.168.1.150 @ 2016-08-02T03:08:24.613Z"}
+{"level":"info","message":"Redis connection `tasks` connected","timestamp":"192.168.1.150 @ 2016-08-02T03:08:24.613Z"}
+{"level":"notice","message":"pid: 57160","timestamp":"192.168.1.150 @ 2016-08-02T03:08:24.628Z"}
+{"level":"notice","message":"server ID: 192.168.1.150","timestamp":"192.168.1.150 @ 2016-08-02T03:08:24.629Z"}
+{"level":"info","message":"actionhero member 192.168.1.150 has left the cluster","timestamp":"192.168.1.150 @ 2016-08-02T03:08:24.633Z"}
+{"level":"info","message":"actionhero member 192.168.1.150 has joined the cluster","timestamp":"192.168.1.150 @ 2016-08-02T03:08:24.634Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"192.168.1.150 @ 2016-08-02T03:08:24.636Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"192.168.1.150 @ 2016-08-02T03:08:24.638Z"}
+{"level":"notice","message":"environment: development","timestamp":"192.168.1.150 @ 2016-08-02T03:08:25.041Z"}
+{"level":"notice","message":"*** ActionHero Started ***","timestamp":"192.168.1.150 @ 2016-08-02T03:08:25.041Z"}
+{"level":"info","message":"*** ActionHero Restarted ***","timestamp":"192.168.1.150 @ 2016-08-02T03:08:25.042Z"}
+{"to":"127.0.0.1","action":"change","params":"{\"change\":{\"name\":\"John Doe\"},\"action\":\"change\",\"apiVersion\":1}","duration":9,"level":"info","message":"[ action @ web ]","timestamp":"192.168.1.150 @ 2016-08-02T03:09:38.090Z"}
+{"level":"info","message":"*** rebooting due to config change (/Users/gcoonrod/dev/dx/config/tasks.js) ***","timestamp":"192.168.1.150 @ 2016-08-02T03:10:53.964Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing...","timestamp":"192.168.1.150 @ 2016-08-02T03:10:53.965Z"}
+{"level":"notice","message":"Stopping server: web","timestamp":"192.168.1.150 @ 2016-08-02T03:10:53.966Z"}
+{"level":"notice","message":"Stopping server: websocket","timestamp":"192.168.1.150 @ 2016-08-02T03:10:53.966Z"}
+{"level":"alert","message":"*** ActionHero Stopped ***","timestamp":"192.168.1.150 @ 2016-08-02T03:10:53.968Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.007Z"}
+{"level":"info","message":"Redis connection `client` connected","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.016Z"}
+{"level":"info","message":"Redis connection `subscriber` connected","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.017Z"}
+{"level":"info","message":"Redis connection `tasks` connected","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.017Z"}
+{"level":"notice","message":"pid: 57160","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.031Z"}
+{"level":"notice","message":"server ID: 192.168.1.150","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.031Z"}
+{"level":"info","message":"actionhero member 192.168.1.150 has left the cluster","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.036Z"}
+{"level":"info","message":"actionhero member 192.168.1.150 has joined the cluster","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.036Z"}
+{"level":"info","message":"resque scheduler started","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.040Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.043Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.045Z"}
+{"level":"notice","message":"environment: development","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.528Z"}
+{"level":"notice","message":"*** ActionHero Started ***","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.529Z"}
+{"level":"info","message":"*** ActionHero Restarted ***","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.529Z"}
+{"workerId":1,"level":"info","message":"worker: started","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.560Z"}
+{"level":"error","message":"! uncaught error from task: task:prepareChange on queue default (worker #1)","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.577Z"}
+{"level":"error","message":"!     arguments: [{\"name\":\"John Doe\"}]","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.577Z"}
+{"level":"error","message":"! Error: No job defined for class 'prepareChange'","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.578Z"}
+{"level":"error","message":"!     at Domain.<anonymous> (/Users/gcoonrod/dev/dx/node_modules/node-resque/lib/worker.js:167:20)","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.578Z"}
+{"level":"error","message":"!     at Domain.run (domain.js:221:14)","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.578Z"}
+{"level":"error","message":"!     at worker.perform (/Users/gcoonrod/dev/dx/node_modules/node-resque/lib/worker.js:164:5)","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.579Z"}
+{"level":"error","message":"!     at /Users/gcoonrod/dev/dx/node_modules/node-resque/lib/worker.js:112:18","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.579Z"}
+{"level":"error","message":"!     at /Users/gcoonrod/dev/dx/node_modules/fakeredis/main.js:184:5","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.580Z"}
+{"level":"error","message":"!     at Timeout._onTimeout (/Users/gcoonrod/dev/dx/node_modules/fakeredis/lib/connection.js:343:18)","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.580Z"}
+{"level":"error","message":"!     at tryOnTimeout (timers.js:228:11)","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.581Z"}
+{"level":"error","message":"!     at Timer.listOnTimeout (timers.js:202:5)","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.581Z"}
+{"level":"error","message":"*","timestamp":"192.168.1.150 @ 2016-08-02T03:10:54.582Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing...","timestamp":"192.168.1.150 @ 2016-08-02T03:11:17.180Z"}
+{"level":"info","message":"resque scheduler ended","timestamp":"192.168.1.150 @ 2016-08-02T03:11:17.200Z"}
+{"workerId":1,"level":"info","message":"worker: ended","timestamp":"192.168.1.150 @ 2016-08-02T03:11:17.273Z"}
+{"level":"info","message":"task workers stopped","timestamp":"192.168.1.150 @ 2016-08-02T03:11:18.704Z"}
